@@ -1,0 +1,26 @@
+/* Name colour */
+/* h1{
+color: tomato;
+} */
+
+/* Hex colour */
+/* h1{
+    color: #209098
+} */
+
+/* Rgb colour */
+/* h1{
+    color: rgb(40, 200, 100);
+} */
+
+
+/* Background colour in css */
+/* body{
+    background-color: rgb(50, 150,100);
+} */
+
+/* Opacity */
+img{
+    background-color: khaki;
+    opacity: 0.5;
+}
