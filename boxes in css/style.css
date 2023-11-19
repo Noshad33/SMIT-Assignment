@@ -10,10 +10,55 @@ div{
 
 /* Limiting- width */
 
-td.description {
+/* td.description {
     min-width: 450px;
     max-width: 650px;
     text-align: left;
     padding: 5px;
     margin: 0px;
+} */
+
+
+/* Limmiting hight */
+/*  
+h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+    h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;}
+    p {
+    min-height: 100px;
+    border: 5px red solid;
+    padding: 10px;
+}  */
+
+
+
+/* overflow */
+/* 
+    p {
+    max-height: 20px;
+    border: 5px red solid;
+overflow: hidden;
+}
+ */
+
+
+ /* Border width */
+/* one by one */
+ /* p{
+    border-top-width: 5px ;
+    border-left-width: 9px;
+    border-right-width: 13px;
+    border-bottom-width: 17px;
+    border-style: solid;
+ } */
+
+/* clock wise */
+
+p{
+    border-style: solid;
+    border-width: 5px 10px 15px 20px;
 }
